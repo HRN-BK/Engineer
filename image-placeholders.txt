@@ -1,0 +1,33 @@
+# Thông tin về hình ảnh mẫu
+
+Để hoàn thiện trang web, bạn cần thêm các hình ảnh sau vào thư mục `images/`:
+
+1. `bamboo-straws-hero.jpg` - Hình ảnh chính cho phần giới thiệu, nên là hình ảnh chất lượng cao hiển thị bó ống hút tre.
+
+2. `paper-straw.jpg` - Hình ảnh ống hút giấy.
+
+3. `stainless-straw.jpg` - Hình ảnh ống hút inox.
+
+4. `glass-straw.jpg` - Hình ảnh ống hút thủy tinh.
+
+5. `silicone-straw.jpg` - Hình ảnh ống hút silicone.
+
+## Kích thước hình ảnh được đề xuất:
+
+- Hero image: 1200 x 800px
+- Các hình ảnh thay thế: 400 x 300px
+
+## Nguồn hình ảnh miễn phí:
+
+Bạn có thể tải về hình ảnh miễn phí từ các nguồn sau:
+- Unsplash (https://unsplash.com)
+- Pexels (https://pexels.com)
+- Pixabay (https://pixabay.com)
+
+Tìm kiếm với từ khóa: "bamboo straws", "paper straws", "stainless steel straws", "glass straws", "silicone straws".
+
+## Lưu ý:
+
+- Đặt tên file chính xác như đã liệt kê ở trên
+- Tối ưu hóa hình ảnh để giảm kích thước file
+- Sử dụng hình ảnh có giấy phép miễn phí cho mục đích thương mại 
